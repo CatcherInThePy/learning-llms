@@ -1,13 +1,13 @@
-# Welcome to the Resources Page
-Here are some useful resources. I will keeep updating this page throughout my learning journey.
+# 👋 Welcome to the Resources Page
+Here are some useful resources and interesting concepts. I will keeep updating this page throughout my learning journey. Happy learning!
 
 ## 📚 Resources
 - [Umar Jamil - LLM Videos](https://umarjamil.org/videos)
-- [Lena Voita - NLP Course | For You](https://lena-voita.github.io/nlp_course.html)
+- [Lena Voita - NLP Course • For You](https://lena-voita.github.io/nlp_course.html)
 
 
 ## 🕸️ Refresher on Neural Networks
-- [3Blue1Brown (Youtube) - But what is a neural network? | Deep learning chapter 1](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [3Blue1Brown (Youtube) - But what is a neural network? • Deep learning chapter 1](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 
 ## 🗣️ Language Modeling
@@ -22,12 +22,12 @@ Here are some useful resources. I will keeep updating this page throughout my le
 ## 🔄 Recurrent Neural Networks (RNNs)
 - [StatQuest with Josh Starmer (Youtube) - Recurrent Neural Networks (RNNs)](https://www.youtube.com/watch?v=AsNTP8Kwu80)
 - [NLP from Scratch — PyTorch Tutorials 2.5.0+cu124 documentation](https://pytorch.org/tutorials/intermediate/nlp_from_scratch_index.html)
-- [Building a Recurrent Neural Network From Scratch | by Long Nguyen | Medium](https://medium.com/@thisislong/building-a-recurrent-neural-network-from-scratch-ba9b27a42856)
+- [Building a Recurrent Neural Network From Scratch • by Long Nguyen • Medium](https://medium.com/@thisislong/building-a-recurrent-neural-network-from-scratch-ba9b27a42856)
 
 
 ## ⌛ Long Short-Term Memory (LSTMs)
 - [StatQuest with Josh Starmer (Youtube) - Long Short-Term Memory (LSTM)](https://www.youtube.com/watch?v=YCzL96nL7j0)
-- [Building a LSTM by hand on PyTorch | by Piero Esposito | Towards Data Science](https://towardsdatascience.com/building-a-lstm-by-hand-on-pytorch-59c02a4ec091)
+- [Building a LSTM by hand on PyTorch • by Piero Esposito • Towards Data Science](https://towardsdatascience.com/building-a-lstm-by-hand-on-pytorch-59c02a4ec091)
 
 
 ## 🔁 Seq2Seq (Encoder-Decoder)
@@ -47,7 +47,7 @@ Here are some useful resources. I will keeep updating this page throughout my le
 ## 👨 Encoder-Only Models
 - [Umar Jamil (Youtube) - BERT explained: Training, Inference,  BERT vs GPT/LLamA, Fine tuning, [CLS] token](https://www.youtube.com/watch?v=90mGPxR2GgY)
   - `Masked Language Modeling (MLM)`, `Next Sentence Prediction (NSP)`, `[CLS] Token`
-- [Mastering BERT Model: Building it from Scratch with Pytorch | by CheeKean | Data And Beyond | Medium](https://medium.com/data-and-beyond/complete-guide-to-building-bert-model-from-sratch-3e6562228891)
+- [Mastering BERT Model: Building it from Scratch with Pytorch • by CheeKean • Data And Beyond • Medium](https://medium.com/data-and-beyond/complete-guide-to-building-bert-model-from-sratch-3e6562228891)
 
 
 ## 🦙 Decoder-Only Models
@@ -69,7 +69,7 @@ Here are some useful resources. I will keeep updating this page throughout my le
 
 ### 🏷️ Positional Encoding
 - [Positional Encoding Explained: A Deep Dive into Transformer PE](https://medium.com/thedeephub/positional-encoding-explained-a-deep-dive-into-transformer-pe-65cfe8cfe10b) 
-- [Understanding Rotary Positional Encoding | by Ngieng Kianyew | Medium](https://medium.com/@ngiengkianyew/understanding-rotary-positional-encoding-40635a4d078e)
+- [Understanding Rotary Positional Encoding • by Ngieng Kianyew • Medium](https://medium.com/@ngiengkianyew/understanding-rotary-positional-encoding-40635a4d078e)
 	
 ### 🎟️ Tokenizers
 - [Byte-Pair Encoding tokenization - Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/en/chapter6/5?fw=pt)
@@ -78,7 +78,7 @@ Here are some useful resources. I will keeep updating this page throughout my le
 
 ### 🖨️ Decoding Methods for Text Generation
 - [Hugging Face Blog How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate)
-- [Decoding Strategies in Language Models | Rajan Ghimire](https://r4j4n.github.io/blogs/posts/text_decoding/)
+- [Decoding Strategies in Language Models • Rajan Ghimire](https://r4j4n.github.io/blogs/posts/text_decoding/)
 
 ### 🧮 Parameter-Efficient Tuning
 - [LoRA: Low-Rank Adaptation of Large Language Models - Explained visually + PyTorch code from scratch](https://www.youtube.com/watch?v=PXWYUTMt-AU)
