@@ -1,2 +1,2 @@
-# learning-llms
-Collection of valuable resources and interesting concepts I have encountered throughout my learning journey, with a focus on large language models
+# Learning Large Language Models (LLMs)
+This repository is a collection of valuable resources and interesting concepts I have encountered throughout my learning journey, with a focus on large language models. It covers a range of essential concepts as well as new and interesting topics to explore. Feel free to explore the [learning-resources.md](learning-resources.md) for a curated list of useful links and concepts.
