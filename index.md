@@ -58,7 +58,7 @@ Here are some useful resources and interesting concepts. I will keeep updating t
 
 
 ## 📱 Multimodal Large Language Models	
-- [ Sebastian Raschka - Understanding Multimodal LLMs](https://sebastianraschka.com/blog/2024/understanding-multimodal-llms.html) 
+- [Sebastian Raschka - Understanding Multimodal LLMs](https://sebastianraschka.com/blog/2024/understanding-multimodal-llms.html) 
 - [Umar Jamil (Youtube) - Coding a Multimodal (Vision) Language Model from scratch in PyTorch with full explanation](https://www.youtube.com/watch?v=vAmKB7iPkWw)
 
 
@@ -79,6 +79,11 @@ Here are some useful resources and interesting concepts. I will keeep updating t
 ### 🖨️ Decoding Methods for Text Generation
 - [Hugging Face Blog How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate)
 - [Decoding Strategies in Language Models • Rajan Ghimire](https://r4j4n.github.io/blogs/posts/text_decoding/)
+
+### 🗜️ Quantization
+- [Umar Jamil (Youtube) - Quantization explained with PyTorch - Post-Training Quantization, Quantization-Aware Training](https://www.youtube.com/watch?v=0VdNflU08yA)
+  - `Post-Training Quantization (PTQ)`, `Quantization-Aware Training (QAT)`, `Symmetric vs. Asymmetric Quantization`, `Static vs. Dynamic Quantization`, `Choosing Quantization Range`
+- [Introduction to Quantization on PyTorch - PyTorch documentation](https://pytorch.org/blog/introduction-to-quantization-on-pytorch/)
 
 ### 🧮 Parameter-Efficient Tuning
 - [LoRA: Low-Rank Adaptation of Large Language Models - Explained visually + PyTorch code from scratch](https://www.youtube.com/watch?v=PXWYUTMt-AU)
